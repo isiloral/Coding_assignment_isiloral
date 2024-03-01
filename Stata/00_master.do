@@ -1,0 +1,8 @@
+*Change directory to where the assignment is stored
+cd "Coding_assignment_isiloral"
+
+*Preprocessing and cleaning the data
+do "Stata\01_preprocessing.do"
+
+*Analysis of the data and drawing scatter plots
+do "Stata\02_analysis.do"
